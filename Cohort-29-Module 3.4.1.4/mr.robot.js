@@ -1,7 +1,4 @@
-function runProgram(input=''){
-  
-    
-}
+function runProgram(input = "") {}
 
 if (process.env.USER === "") {
   runProgram(``);
